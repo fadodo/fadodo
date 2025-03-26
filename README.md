@@ -11,10 +11,12 @@
 ## 🚀 About Me
 
 - 📊 **Data Analyst with a strong analytical mindset**, experienced in transforming complex datasets into actionable insights.
-- 🤖 Passionate about extracting insights from data and making informed decisions.
-- 📡 Experienced in working with **spatial databases, GIS tools, and remote sensing data**.
+- 🔍 Skilled in **data wrangling, cleaning, and preprocessing** to ensure data accuracy and consistency.
 - 💻 Proficient in **Python, SQL, Pandas, Matplotlib, Seaborn, Plotly, and more**.
-- 📚 Always learning new technologies and techniques to enhance data-driven decision-making.
+- 🤖 Applied **machine learning models** to solve business problems, leveraging techniques such as regression, classification, and clustering.
+- 📡 Experienced in working with **spatial databases, GIS tools, and remote sensing data**.
+- 🛰️ Previously worked in **Earth Observation**, utilizing satellite imagery and geospatial data for environmental analysis.
+- 📚 Always learning new technologies and techniques to enhance **data-driven decision-making**.
 
 ---
 
@@ -37,15 +39,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%" />
-</p>
 
 ---
 

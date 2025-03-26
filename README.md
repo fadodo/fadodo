@@ -1,4 +1,6 @@
-![Header](https://github.com/fadodo/fadodo/raw/main/pexels-asphotograpy-95916.jpg)
+<p align="center">
+  <img src="https://github.com/fadodo/fadodo/raw/main/pexels-asphotograpy-95916.jpg" width="800" height="300" />
+</p>
 
 # Hi there 👋, I'm Fifi ADOD0
 
@@ -14,7 +16,6 @@
 - 🔍 Skilled in **data wrangling, cleaning, and preprocessing** to ensure data accuracy and consistency.
 - 💻 Proficient in **Python, SQL, Pandas, Matplotlib, Seaborn, Plotly, and more**.
 - 🤖 Applied **machine learning models** to solve business problems, leveraging techniques such as regression, classification, and clustering.
-- 📡 Experienced in working with **spatial databases, GIS tools, and remote sensing data**.
 - 🛰️ Previously worked in **Earth Observation**, utilizing satellite imagery and geospatial data for environmental analysis.
 - 📚 Always learning new technologies and techniques to enhance **data-driven decision-making**.
 

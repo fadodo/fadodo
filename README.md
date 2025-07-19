@@ -2,7 +2,7 @@
   <img src="https://github.com/fadodo/fadodo/raw/main/pexels-asphotograpy-95916.jpg" width="800" height="300" />
 </p>
 
-# Hi there 👋, I'm Fifi
+# Hi there 👋, I'm Fifi 
 
 🌍 **Data Analyst | Earth Observation Specialist**  
 🔍 I'm passionate about applying data science and digital technologies to solve real-world problems and create tangible value  
@@ -18,6 +18,8 @@
 - 🤖 Applied **machine learning models** to solve business problems, leveraging techniques such as regression, classification, and clustering.
 - 🛰️ Previously worked in **Earth Observation**, utilizing satellite imagery and geospatial data for environmental analysis.
 - 📚 Always learning new technologies and techniques to enhance **data-driven decision-making**.
+
+  More info about my research and projects can be found on my [personal website](fadodo.github.io).
 
 ---
 

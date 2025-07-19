@@ -2,7 +2,7 @@
   <img src="https://github.com/fadodo/fadodo/raw/main/pexels-asphotograpy-95916.jpg" width="800" height="300" />
 </p>
 
-# Hi there 👋, I'm Fifi (More info about my projects can be found on my [personal website](https://fadodo.github.io).
+# Hi there 👋, I'm Fifi (More info about my projects can be found on my [personal website](https://fadodo.github.io)).
 
 
 🌍 **Data Analyst | Earth Observation Specialist**  
